@@ -1,4 +1,4 @@
-Primer zadatka sa ispita iz predmeta Poslovna internet rešenja sa Eknomskog Fakulteta u Subotici.
+Primer zadatka sa ispita iz predmeta "Razvoj poslovnih internet rešenja" sa Eknomskog Fakulteta u Subotici.
 
 U nastavku sledi opis zadatka.
 
